@@ -13,5 +13,5 @@ In the repository settings, select **Pages → Build and deployment → Source: 
 ## Before launch
 
 - Confirm the positioning and copy fit the business.
-- Replace `hello@localsignal.co` if another contact address should be used.
+- Confirm the published contact inbox is monitored.
 - Connect a custom domain and add domain verification records if desired.
